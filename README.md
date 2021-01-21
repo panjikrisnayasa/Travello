@@ -6,7 +6,8 @@ Travello is a corporate travel management application developed to facilitate th
 
 Due to company policy, application code is not allowed to be shared. so that here I will only share the UI/UX Design & Interaction on Adobe XD and screenshots of applications that have been installed.
 
-## UI/UX Design & Interaction on Adobe XD: https://xd.adobe.com/view/339188c3-ca84-4893-5500-f5d920d86263-45a0/?fullscreen
+## UI/UX Design & Interaction on Adobe XD: 
+https://xd.adobe.com/view/339188c3-ca84-4893-5500-f5d920d86263-45a0/?fullscreen
 
 ## Some features of Travello:
 ### 1. Home
