@@ -1,6 +1,6 @@
 # Travello
 
-![Screenshot_20210121-082917](https://user-images.githubusercontent.com/48062932/105268949-0b8b4800-5bce-11eb-9c04-2a87f2410154.jpg)
+
 
 Travello is a corporate travel management application developed to facilitate the business trip of PT. Infomedia Nusantara. This application consists of 2 main features, namely travel requests and reimbursements.
 
@@ -12,7 +12,7 @@ https://xd.adobe.com/view/339188c3-ca84-4893-5500-f5d920d86263-45a0/?fullscreen
 ## Some features of Travello:
 ### 1. Home
 
-![Screenshot_20210121-082853](https://user-images.githubusercontent.com/48062932/105269086-3f666d80-5bce-11eb-8543-27a45753b55e.jpg)
+<img src="https://user-images.githubusercontent.com/48062932/105269086-3f666d80-5bce-11eb-8543-27a45753b55e.jpg" width="360">
 
 ### 2. Travel Request
 
