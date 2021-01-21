@@ -2,9 +2,9 @@
 
 <img src="https://user-images.githubusercontent.com/48062932/105269908-ca943300-5bcf-11eb-9f67-7f4dbdda26c9.jpg" width="360">
 
-Travello is a corporate travel management application developed to facilitate the business trip of PT. Infomedia Nusantara. This application consists of 2 main features, namely travel requests and reimbursements.
+Travello is a corporate travel management application developed to facilitate the business trip of PT. Infomedia Nusantara. This application consists of 2 main features, travel requests and reimbursements.
 
-Due to company policy, application code is not allowed to be shared. so that here I will only share the UI/UX Design & Interaction on Adobe XD and screenshots of applications that have been installed.
+Due to company policy, application code is not allowed to be shared. So that here I will only share the UI/UX Design & Interaction on Adobe XD and screenshots of applications that have been installed.
 
 ## UI/UX Design & Interaction on Adobe XD: 
 https://xd.adobe.com/view/339188c3-ca84-4893-5500-f5d920d86263-45a0/?fullscreen
